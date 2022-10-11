@@ -4,7 +4,7 @@
 - 👀 I’m interested in NodeJS, Typescript, Svelte, Python and C#.
 - 🌱 I’m currently learning Svelte.
 - 🏹 I'm working in project which is being uploaded as 'blog'.
-- 🌈 [Check my blog](https://laminar8.github.io/blog)
+- 🌈 [Check my blog](https://darling-taffy-f82d6a.netlify.app/posts)
 
 <!---
 Laminar8/Laminar8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
